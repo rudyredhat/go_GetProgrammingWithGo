@@ -1,4 +1,11 @@
 # go_GetProgrammingWithGo
-Practice items and exercises from **Get Programming With Go** book
+Practice exercises from **Get Programming With Go** book. 
 ## For the content section:
-- check the closed PR section and check the [comments](https://github.com/rudyredhat/go_GetProgrammingWithGo/pulls?q=is%3Apr+is%3Aclosed) .
+- Check the closed PR section and check the [comments](https://github.com/rudyredhat/go_GetProgrammingWithGo/pulls?q=is%3Apr+is%3Aclosed) .
+- In the comments of each CLOSED PR , there are subheadings which refer to each Lesson Contents.
+```
+PRACTICE ALL THE EXERCISE ONE BY ONE YOU ARE GOOD TO GO FOR BASICS.
+```
+```
+NO NEED OF ANY VIDEO, JUST FOLLOW ALL EXAMPLES ONE BY ONE.
+```
